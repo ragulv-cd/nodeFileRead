@@ -1,0 +1,20 @@
+{
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "author": "Prabhakaran",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": " thisis-pk"
+  },
+  "license": "ISC"
+}
